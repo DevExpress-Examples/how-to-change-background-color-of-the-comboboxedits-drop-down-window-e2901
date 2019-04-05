@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/SilverlightApplication4/MainPage.xaml) (VB: [MainPage.xaml](./VB/SilverlightApplication4/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/SilverlightApplication4/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/SilverlightApplication4/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/SilverlightApplication4/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SilverlightApplication4/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to change background color of the ComboBoxEdit's drop-down window 
 
